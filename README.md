@@ -2,7 +2,7 @@
 
 PKM            |  RE-PKM
 :-------------------------:|:-------------------------:
-![PKM](/showcases/ring-test.gif) |  ![RE-PKM](/showcases/ring-test.gif)
+![PKM](/showcases/ring-test.gif) |  ![RE-PKM](/showcases/ring-res-test.gif)
 
 This is the Code for the Master's Thesis "Residual Enhanced Probabilistic Koopman-based Representation Learning" by Tobias Pielok.
  
